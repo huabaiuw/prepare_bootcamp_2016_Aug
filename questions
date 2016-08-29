@@ -1,0 +1,15 @@
+Q1. main (int argc,     char * argv [])
+Q2. try catch
+Q3.     namespace conflict?? namespace project organize
+Q4. Parallelize build into 3 threads
+
+Q5. hdf5
+
+Q6. extern OptionCollection option; (in option.hh)
+
+Q7. utility::pointer::ReferenceCount
+
+Q8. devel::init(argc, argv);
+
+Q9. cycle call header file
+
